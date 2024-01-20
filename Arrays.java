@@ -6,6 +6,8 @@ public class Arrays {
         user_ID[1] = "578-34";
         user_ID[2] = "364-20";
 
+
+        //Creating Array, a different way!
         double[] muns = { 4, 6, 8 };
         System.out.println("Muns1 is " + muns[0] + ", Muns2 is" + muns[1]);
         System.out.println("Muns3 is " + muns[2]);
